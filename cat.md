@@ -6,3 +6,32 @@ Blah blah
 
 < Ctrl D >
 
+
+__Viewing file__
+
+more myfile
+
+
+__Copying content__
+
+cp myfile myfile2
+
+
+__Changing name of file__
+
+mv myfile2 myfilechanged
+
+
+__Renaming file__
+
+mv "latest revisions october.txt" laterevs.txt
+
+
+__Deleting file__
+
+rm myfilechanged
+
+
+__Listing files/folders in current working directory__
+
+ls
